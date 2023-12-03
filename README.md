@@ -28,7 +28,8 @@ print('%.2f'%d)
 
 
 ### OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/SAIDARSHINI27072005/DISTANCE-BETWEEN-TWO-POINTS/assets/147474227/172f1a0c-4763-48a5-8f02-de226e9e588a)
+
 
 
 ### RESULT:
